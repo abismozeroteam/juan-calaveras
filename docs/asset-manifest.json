@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/juan-calaveras/static/css/main.073c9b0a.css",
-    "main.js": "/juan-calaveras/static/js/main.82834aff.js",
+    "main.css": "/juan-calaveras/static/css/main.4242aa45.css",
+    "main.js": "/juan-calaveras/static/js/main.df7794ad.js",
     "static/js/787.064ddcd4.chunk.js": "/juan-calaveras/static/js/787.064ddcd4.chunk.js",
-    "static/media/logo.svg": "/juan-calaveras/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/logo.svg": "/juan-calaveras/static/media/logo.49249a45a54f73576d60a13aed35d520.svg",
     "index.html": "/juan-calaveras/index.html",
-    "main.073c9b0a.css.map": "/juan-calaveras/static/css/main.073c9b0a.css.map",
-    "main.82834aff.js.map": "/juan-calaveras/static/js/main.82834aff.js.map",
+    "main.4242aa45.css.map": "/juan-calaveras/static/css/main.4242aa45.css.map",
+    "main.df7794ad.js.map": "/juan-calaveras/static/js/main.df7794ad.js.map",
     "787.064ddcd4.chunk.js.map": "/juan-calaveras/static/js/787.064ddcd4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.82834aff.js"
+    "static/css/main.4242aa45.css",
+    "static/js/main.df7794ad.js"
   ]
 }
