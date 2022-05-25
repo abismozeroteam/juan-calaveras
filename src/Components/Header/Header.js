@@ -15,7 +15,9 @@ const dishesLength = Object.keys(dishes).length;
 const dishStyle = (dishNumber) => {
     return {
         backgroundImage: `url('${dishes[Object.keys(dishes)[dishNumber]]}')`,
-        backgroundPosition: 'center', backgroundSize: 'cover', backgroundRepeat: 'no-repeat'}
+        backgroundPosition: 'center', backgroundSize: 'cover', backgroundRepeat: 'no-repeat',
+        filter: 'brightness(0.5)'
+    }
 };
 
 // Component
@@ -55,7 +57,7 @@ function Header() {
         <header>
             {carousel(bgImage)}
             <img className='logo' src={Logo} alt="Juan Calaveras Logo" />
-            <h3>CHEF PRIVADO</h3>
+            <h3>COCINERO ERRANTE</h3>
         </header>
     )
 

@@ -39,6 +39,7 @@ footer h5 {
         justify-content: center;
         align-items: center;
         gap: 1rem;
+        flex-basis: auto;
     }
     .contact {
         text-align: center;

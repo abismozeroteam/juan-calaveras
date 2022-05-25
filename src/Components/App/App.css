@@ -4,3 +4,8 @@
   display: flex;
   flex-direction: column;
 }
+@media only screen and(max-width: 850px) {
+  .App {
+    height: auto;
+  }
+}
