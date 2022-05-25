@@ -9,7 +9,7 @@ function Footer() {
     return (
         <footer>
             <h5>CONTACTO</h5>
-            <div className="datos-contacto">
+            <div className="contact">
                 <p>Juan S. González García</p>
                 <p>+52 55 6007 2901</p>
             </div>
@@ -17,6 +17,7 @@ function Footer() {
                 <FontAwesomeIcon icon={faFacebook} className="fa-lg"/>
                 <FontAwesomeIcon icon={faInstagram} className="fa-lg"/>
             </div>
+            <p className='copyright'><em>Juan Calaveras {new Date().getFullYear()} ©</em></p>
         </footer>
     );
 }

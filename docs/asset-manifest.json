@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/juan-calaveras/static/css/main.a80bcd8c.css",
-    "main.js": "/juan-calaveras/static/js/main.f7789e55.js",
+    "main.css": "/juan-calaveras/static/css/main.c3f9d4e5.css",
+    "main.js": "/juan-calaveras/static/js/main.e1152b5d.js",
     "static/js/787.064ddcd4.chunk.js": "/juan-calaveras/static/js/787.064ddcd4.chunk.js",
     "static/media/JUAN-CALAVERAS-00009.jpg": "/juan-calaveras/static/media/JUAN-CALAVERAS-00009.10b75840db7b0606fc3d.jpg",
     "static/media/JUAN-CALAVERAS-00030.jpg": "/juan-calaveras/static/media/JUAN-CALAVERAS-00030.07e1a130b6e5ca2b0d86.jpg",
@@ -38,12 +38,12 @@
     "static/media/JUAN-CALAVERAS-00012.jpg": "/juan-calaveras/static/media/JUAN-CALAVERAS-00012.f7ac3effaeab3ab11e90.jpg",
     "static/media/logo.svg": "/juan-calaveras/static/media/logo.201d6fedd314c4f536d561d8b9580b02.svg",
     "index.html": "/juan-calaveras/index.html",
-    "main.a80bcd8c.css.map": "/juan-calaveras/static/css/main.a80bcd8c.css.map",
-    "main.f7789e55.js.map": "/juan-calaveras/static/js/main.f7789e55.js.map",
+    "main.c3f9d4e5.css.map": "/juan-calaveras/static/css/main.c3f9d4e5.css.map",
+    "main.e1152b5d.js.map": "/juan-calaveras/static/js/main.e1152b5d.js.map",
     "787.064ddcd4.chunk.js.map": "/juan-calaveras/static/js/787.064ddcd4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a80bcd8c.css",
-    "static/js/main.f7789e55.js"
+    "static/css/main.c3f9d4e5.css",
+    "static/js/main.e1152b5d.js"
   ]
 }
