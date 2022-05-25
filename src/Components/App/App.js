@@ -1,13 +1,13 @@
-import logo from '../../Util/images/brand/logo.svg';
 import './App.css';
+// Components
+import Footer from '../Footer/Footer';
+import Header from '../Header/Header';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <h1>JUAN CALAVERAS</h1>
-      </header>
+      <Header />
+      <Footer />
     </div>
   );
 }
