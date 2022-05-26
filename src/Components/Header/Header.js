@@ -15,8 +15,7 @@ const dishesLength = Object.keys(dishes).length;
 const dishStyle = (dishNumber) => {
     return {
         backgroundImage: `url('${dishes[Object.keys(dishes)[dishNumber]]}')`,
-        backgroundPosition: 'center', backgroundSize: 'cover', backgroundRepeat: 'no-repeat',
-        filter: 'brightness(0.5)'
+        backgroundPosition: 'center', backgroundSize: 'cover', backgroundRepeat: 'no-repeat'
     }
 };
 
@@ -56,6 +55,7 @@ function Header() {
     return (
         <header>
             {carousel(bgImage)}
+            <div className='fill-dishes'></div>
             <img className='logo' src={Logo} alt="Juan Calaveras Logo" />
             <h3>COCINERO ERRANTE</h3>
         </header>
